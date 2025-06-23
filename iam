@@ -1,0 +1,3 @@
+IAM:
+-----
+- Identity and Access Management in AWS manages users, roles and organisations associated to the current AWS account.
