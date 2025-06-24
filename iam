@@ -1,3 +1,20 @@
 IAM:
 -----
-- Identity and Access Management in AWS manages users, roles and organisations associated to the current AWS account.
+- Identity and Access Management in AWS manages users, roles and organisations to control access to AWS services and resources securely.
+
+- Below are the objects that involve in the IAM to deal with
+  - Users
+  - Groups
+  - Roles
+  - Policies
+  - Authentication
+  - Authorization
+  
+  - Users: Users are the individuals or applications  who can work with services 
+  - Groups: Set of individuals having common permissions
+  - Roles: identities to users,applications and services given tempororily to access AWS services 
+  - Policies: Documents that define permissions and actions that are valid to perfomrm and access AWS resources under certain conditions 
+  - Authentication: the process of verifying identity of a user or application
+  - Authorisation: the process of checking a user or application has permissions to access certain services or resources
+
+
