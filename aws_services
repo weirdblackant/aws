@@ -1,0 +1,31 @@
+IAM
+  users
+  groups
+  roles
+  policies
+  authentication
+  authorization
+
+VPC
+  DHCP
+  DNS/DNS server
+  Subnets
+    NACL
+    route tables
+  VPC peering
+  Internet gateways
+  NAT gateways
+  Routers
+
+LOAD BALANCERS
+  Network Loadbalancers
+  Application loadbalancers
+  Gateway Loadbalancers
+
+EC2
+  EC2 fleet
+  EC2 autoscaling
+  
+S3
+
+

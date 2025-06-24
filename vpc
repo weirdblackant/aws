@@ -1,0 +1,14 @@
+Virtual Private Cloud(VPC):
+----------------------------
+- VPC is a network that can span across a cloud region which can consists of 'subnets' which individually can be confined to a single availability zone.
+
+- VPC is logically a network of IP addresses that can be subdivided into networks known as 'subnets'
+
+- each subnet is again a logical set of IP addresses that can be assigned to resources such as instances by a DHCP.
+
+- VPC has few objects that govern the flow or traffic inside the VPC like
+  - route tables
+  - Network Access control lists(NACLs)
+  - Security Groups
+  
+  - route table: will be used to route traffic inside the VPC and subnets
